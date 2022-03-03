@@ -33,7 +33,7 @@ int main(int argc, char **argv) {
 
 
             // Now do the work - write the value in binary to the pipe
-            int len = strlen(argv[i]);
+            int len = strlen(argv[i+1]);
 
 
 
