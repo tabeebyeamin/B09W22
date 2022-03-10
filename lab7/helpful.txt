@@ -1,0 +1,11 @@
+Forks and Exec:
+https://www.youtube.com/watch?v=l64ySYHmMmY
+
+Pipes and Dup2:
+https://www.youtube.com/watch?v=FcUlMsVX7aE
+https://www.youtube.com/watch?v=EL4hCQc7KXY
+https://www.youtube.com/watch?v=pO1wuN3hJZ4
+
+Why should we close the ununsed ends of a pipe?
+https://stackoverflow.com/questions/40584034/when-and-why-do-i-have-to-close-pipe
+
