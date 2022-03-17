@@ -1,0 +1,8 @@
+Signals, Kill, Sigaction
+https://www.youtube.com/watch?v=83M5-NPDeWs
+
+Using setitimer
+https://www.ibm.com/support/knowledgecenter/ssw_ibm_i_72/apis/setitime.htm
+
+Using fseek()
+https://www.tutorialspoint.com/c_standard_library/c_function_fseek.htm
