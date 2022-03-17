@@ -1,6 +1,9 @@
 Signals, Kill, Sigaction
 https://www.youtube.com/watch?v=83M5-NPDeWs
 
+Signals, Sigemptyset
+https://youtu.be/_1TuZUbCnX0
+
 Using setitimer
 https://www.ibm.com/support/knowledgecenter/ssw_ibm_i_72/apis/setitime.htm
 
